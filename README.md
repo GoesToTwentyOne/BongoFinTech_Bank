@@ -31,17 +31,17 @@ The project also encompasses several additional features:
 5. **Unique Enhancements**: The system includes unique enhancements, and you're encouraged to explore and contribute your own.
 6. **Customization**: You have the freedom to modify the project's color gradient to suit your preferences.
 
-Backend Development (Django):
+Certainly! Here's a concise list of the development languages and technologies used in both the backend and frontend of the Quiz Taker Expert project:
 
-Python
-Frontend Development:
+**Backend Development (Django):**
+- Python
 
-HTML5
-CSS3
-Bootstrap 4
-JavaScript
-React.js
-
+**Frontend Development:**
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+  
 Feel free to contribute to this project by implementing additional features and making improvements. Enjoy using the Bank Management System!
 
 
