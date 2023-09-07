@@ -31,4 +31,17 @@ The project also encompasses several additional features:
 5. **Unique Enhancements**: The system includes unique enhancements, and you're encouraged to explore and contribute your own.
 6. **Customization**: You have the freedom to modify the project's color gradient to suit your preferences.
 
+Backend Development (Django):
+
+Python
+Frontend Development:
+
+HTML5
+CSS3
+Bootstrap 4
+JavaScript
+React.js
+
 Feel free to contribute to this project by implementing additional features and making improvements. Enjoy using the Bank Management System!
+
+
